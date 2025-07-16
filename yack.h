@@ -98,7 +98,7 @@
 // These values limit the speed that the keyer can be set to
 #define MAXWPM 50  
 #define MINWPM  6
-#define DEFWPM 16
+#define DEFWPM 15
 
 #define WPMCALC(n) ((12000/YACKBEAT)/n) // Calculates number of beats in a dot 
 

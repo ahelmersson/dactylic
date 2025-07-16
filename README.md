@@ -2,7 +2,7 @@
 
 Anders Helmersson, SM5KAE
 
-This is a fork of https://github.com/donfroula/ATTiny85_CW_Keye
+This is a fork of https://github.com/donfroula/ATTiny85_CW_Keyer
 
 This keyer implements the Dactylic mode for single paddle keys. In this
 mode, dahs are sent when the paddle is moved, dits when the paddle is
